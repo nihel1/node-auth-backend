@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://bnhmidanihel:nahoula@cluster0.cjiaqby.mongodb.net/auth?retryWrites=true&w=majority",
+    "secret": "hashtag"
+}
